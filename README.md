@@ -2,7 +2,7 @@
 
 Vivant is a powerful AI-driven engine designed to transform simple text prompts into professional infographic videos. Stop struggling with complex video editors—just describe your data, and let the AI handle the rest.
 
-[📺 Watch Video Tutorial](https://www.youtube.com/watch?v=NmDXeS6Fs-A) | [📂 View Sample Gallery](demo/)
+[📺 Watch Video Tutorial](https://www.youtube.com/watch?v=NmDXeS6Fs-A) | [📂 View Sample Gallery](https://youtube.com/playlist?list=PLW86jpNtpocL64JXHzmfS6PUshrPE6mOb&si=kwrCS55dPMWV2p2r)
 
 ---
 
