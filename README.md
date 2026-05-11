@@ -34,7 +34,7 @@ This repository contains the **compiled trial version** of Vivant.
 ---
 
 ## 🛠 Recommendations
-- **For Best Results:** Use **Groq, GPT etc** for instant generation or **LM Studio (Qwen3/Llama3)** for private, local workflows.
+- **For Best Results:** Use **Groq, GPT etc** for instant generation or **LM Studio (Qwen3)** for private, local workflows.
 - **Customization:** Use the "Customize" tab to match the video to your brand identity before exporting.
 - **Offline Use:** Once activated, you can generate and preview videos without an internet connection.
 
