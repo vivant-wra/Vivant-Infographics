@@ -48,4 +48,6 @@ Found a bug or have a feature request?
 - **Email:** [wra13107@proton.me](mailto:wra13107@proton.me)
 - **Issues:** Please use the GitHub Issues tab.
 
+
+<a href="https://www.producthunt.com/products/vivant-infographics?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-vivant-infographics" target="_blank" rel="noopener noreferrer"><img alt="Vivant .infographics - Professional infographics from text. Cloud or Local AI. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1144407&amp;theme=neutral&amp;t=1778517637783"></a>
 ---
